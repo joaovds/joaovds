@@ -41,13 +41,10 @@ My name is João Victor da Silva and I'm 16 years old, 👨‍🎓 I am currentl
 
   <img src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="nodejs" width="25" height="25"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovds&show_icons=true" alt="joaovds" />
-</p>
 
 #### Where to find me (social networks) ❤️📱
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/JooVict48010462" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joaovictor" height="25" width="25" /></a>
   <a href="https://www.facebook.com/profile.php?id=100015450819596" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="joaovictor" height="25" width="25" /></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-da-silva-a85907189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joaovictor" height="25" width="25" /></a>
