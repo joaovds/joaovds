@@ -8,11 +8,7 @@
 
 #### About Me :sunglasses:
 <p>
-My name is João Victor da Silva and I'm 16 years old, 👨‍🎓 I am currently studying Technician in Systems Development. I had my first contact with programming as soon as I started my course with high school 💻.
-</p>
-<p>
-:heart_eyes: I met and today I am passionate about JavaScript technologies and NodeJs. I also have knowledge in Linux terminal 🐧, ReactJs, TypeScript and C#.
-I'm also learning about GraphQL :relaxed:
+My name is João Victor da Silva and I'm 16 years old, 👨‍🎓 I am currently studying Systems Development at the educational institution "Etec de Peruíbe". I had my first contact with programming as soon as I started my course with high school 💻.
 </p>
 
 ![joaovds github stats](https://github-readme-stats.vercel.app/api?username=joaovds&show_icons=true&theme=dark)
