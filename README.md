@@ -33,15 +33,7 @@ My name is João Victor da Silva and I'm 16 years old, 👨‍🎓 I am currentl
 
 <br><br><br>
 
-<h4 align="center">Where to find me (social networks) ❤️📱</h4>
-
-<p align="center">
-  <a href="https://twitter.com/JooVict48010462" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joaovictor" height="25" width="25" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100015450819596" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="joaovictor" height="25" width="25" /></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-da-silva-a85907189/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joaovictor" height="25" width="25" /></a>
-  <a href="https://www.instagram.com/joaov.7820/?hl=pt-br" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joaovictor" height="25" width="25" /></a>
-  <br>
-  <br>
+<p>
   E-mail: jv782063@gmail.com
 </p>
 
