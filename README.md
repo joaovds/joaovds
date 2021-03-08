@@ -8,7 +8,7 @@
 
 #### About Me :sunglasses:
 <p>
-My name is João Victor da Silva and I'm 16 years old, 👨‍🎓 I am currently studying Systems Development at the educational institution "Etec de Peruíbe". I had my first contact with programming as soon as I started my course with high school 💻.
+My name is João Victor da Silva and I'm 17 years old, 👨‍🎓 I am currently studying Systems Development at the educational institution "Etec de Peruíbe". I had my first contact with programming as soon as I started my course with high school 💻.
 </p>
 
 ![joaovds github stats](https://github-readme-stats.vercel.app/api?username=joaovds&show_icons=true&theme=dark)
