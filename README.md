@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  <b>Systems Development student at <i>Etec from Peruíbe</i></b>
+  <b>Systems Development Technician</b> <i>at Etec from Peruíbe</i>
 <p>
   
 ---
