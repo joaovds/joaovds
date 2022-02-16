@@ -1,15 +1,17 @@
-<h1>
-  :wave: Hi, I'm João Victor
-</h1>
+# :wave: Hi, I'm João Victor
 
 <p>
   <b>Systems Development Technician</b> <i>at Etec from Peruíbe</i>
+
+  <b>Graduating in Computer Science</b> <i>at Catholic University of Santos</i>
+  
+  <b>Intern at <a href="https://gbmtech.com.br/">GBM Tech & Control<a><b>
 <p>
   
 ---
 
-### :white_check_mark: About me
-
+## :raising_hand_man: About me
+  
 - :smiley: I'm a Brazilian developer :brazil: with more experience in Javascript;
 - :tada: Deeper knowledge of: NodeJS, React and TypeScript;
 - :mage_man: I'm a lover of the works of J.R.R.Tolkien! So much so that I'm an elf :elf_man::joy:
@@ -20,6 +22,7 @@
 
 ### ⚙ Languages and Tools
 
+<div style="display: flex;">
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -30,6 +33,9 @@
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+    
+<img src="https://github-readme-stats.vercel.app/api?username=joaovds&show_icons=true&theme=radical" alt="joaovds GitHub stats" />
+<div>
 
 ### :pencil: I intend to study and deepen:
 
