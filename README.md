@@ -94,8 +94,7 @@ const me = {
 ## :memo::pencil: Studying or planning to study
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
-" alt="AWS">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
 
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
 
