@@ -39,8 +39,6 @@ const me = {
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaovds/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/joaovds07/)
 
-<br/>
-
 ## :gear: Languages and Tools
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
