@@ -41,7 +41,7 @@ const me = {
 
 ## :gear: Languages and Tools
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -93,7 +93,7 @@ const me = {
 
 ## :memo::pencil: Studying or planning to study
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
 
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
