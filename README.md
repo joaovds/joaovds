@@ -19,7 +19,7 @@ const me = {
     },
   ],
   current_job: {
-    title: "Software Engineer Intern",
+    title: "Junior Fullstack Software Developer",
     company_name: "GBM Tech & Control",
   },
 };
