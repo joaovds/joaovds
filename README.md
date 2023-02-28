@@ -19,8 +19,8 @@ const me = {
     },
   ],
   current_job: {
-    title: "Junior Fullstack Software Developer",
-    company_name: "GBM Tech & Control",
+    title: "Fullstack Software Developer",
+    company_name: "Grão de Gente",
   },
 };
 ```
