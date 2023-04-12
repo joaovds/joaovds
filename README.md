@@ -3,7 +3,7 @@
 ```javascript
 const me = {
   name: "João Victor da Silva",
-  age: 18,
+  age: 19,
   education: [
     {
       school: "Etec de Peruíbe",
