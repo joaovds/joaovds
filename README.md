@@ -1,34 +1,34 @@
 # :purple_heart: Hi, I'm João Victor
 
-```javascript
-const me = {
-  name: "João Victor da Silva",
-  age: 19,
-  education: [
+```golang
+me := Me{
+  Name: "João Victor da Silva",
+  Age: 19,
+  Education: []Education{
     {
-      school: "Etec de Peruíbe",
-      degree: "Technician",
-      field_of_study: "Systems Development",
-      status: "completed",
+      School: "Etec de Peruíbe",
+      Degree: "Technician",
+      FieldOfStudy: "Systems Development",
+      Status: "completed",
     },
     {
-      school: "Catholic University of Santos",
-      degree: "Bachelor's degree",
-      field_of_study: "Computer Science",
-      status: "in_progress",
+      School: "Catholic University of Santos",
+      Degree: "Bachelor's degree",
+      FieldOfStudy: "Computer Science",
+      Status: "in_progress",
     },
-  ],
-  current_job: {
-    title: "Fullstack Software Developer",
-    company_name: "Grão de Gente",
   },
-};
+  CurrentJob: Job{
+    Title: "Fullstack Software Developer Pl.",
+    CompanyName: "GBM Tech & Control",
+  },
+}
 ```
 
 ## :raising_hand_man: About me
 
 - :grin: I am a Brazilian developer :brazil:
-- :tada: I work a lot with the Javascript stack
+- :tada: In love with Golang
 - :mage_man: I am a lover of the works of J.R.R. Tolkien! I may even be an elf :elf_man::joy:
 - :musical_note: I know a little about music and play musical instruments
 - :writing_hand: I like to learn technologies and new things
@@ -42,13 +42,11 @@ const me = {
 ## :gear: Languages and Tools
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <img alt="Golang" src="https://img.shields.io/badge/Golang-007ACC?style=for-the-badge&logo=go&logoColor=white" />
+  
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-  <img alt="Golang" src="https://img.shields.io/badge/Golang-007ACC?style=for-the-badge&logo=go&logoColor=white" />
-
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-0c344b?style=for-the-badge&logo=Prisma&logoColor=white"/>
   
@@ -71,8 +69,6 @@ const me = {
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"/>
-
-  <img alt="VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
   <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 
@@ -97,4 +93,8 @@ const me = {
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
   <img src="https://img.shields.io/badge/RUST-b7410e?style=for-the-badge&logo=rust&logoColor=white" alt="RUST">
+  
+  <img src="https://img.shields.io/badge/Elixir-7c6d91?style=for-the-badge&logo=elixir&logoColor=purple" alt="elixir">
+
+  <img src="https://img.shields.io/badge/Crystal-black?style=for-the-badge&logo=crystal&logoColor=white" alt="crystal">
 </div>
